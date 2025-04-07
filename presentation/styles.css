@@ -1,0 +1,26 @@
+.formulario-tareas {
+    margin-bottom: 2rem;
+  }
+  
+  .btn-guardar {
+    font-weight: bold;
+    background-color: #0d6efd;
+    border: none;
+  }
+  
+  .btn-guardar:hover {
+    background-color: #0b5ed7;
+  }
+  
+  .tabla-tareas {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  body {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
